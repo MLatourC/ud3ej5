@@ -13,7 +13,9 @@ public class ud3ej5_1 {
     }
 
     public static void main(String[] args) {
-        System.out.println("Estudiante " + args[0] + ":");
+
+        System.out.println("Estudiante " + args[0] + ": Manuel Latour Coves");
+
     }
 }
 
